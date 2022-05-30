@@ -1,15 +1,17 @@
 # datum-solutions
 
 **#About the project**
-An exercise of  RESTful app using SpringBoot.
-This simple server acts a student-Service - it will return details of a student details.
-Requirements
-The fully fledged server uses the following:
-SpringBoot 2.7.0
-Dependencies
-There are a number of third-party dependencies used in the project. 
-Browse the Maven pom.xml file for details of libraries and versions used.
-Building the project
+•	An exercise of  RESTful app using SpringBoot.
+•	This simple server acts a student-Service - it will return details of a student details.
+  
+  The fully fledged server uses the following:
+  
+•	SpringBoot 2.7.0
+•	Dependencies
+•	There are a number of third-party dependencies used in the project. 
+•	Browse the Maven pom.xml file for details of libraries and versions used.
+•	Building the project
+
 You will need:
 
 Java JDK 8 or higher
