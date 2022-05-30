@@ -22,7 +22,6 @@ Clone the project and use Maven to build the server
 
 $ mvn clean install
 
-
 For Spring-Redis data setup in local machine go to following  url.
 
 https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100
