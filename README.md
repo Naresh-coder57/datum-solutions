@@ -7,9 +7,10 @@ This simple server acts a student-Service - it will return details of a student 
 Requirements
 The fully fledged server uses the following:
 
-SpringBoot
+SpringBoot 2.7.0
 Dependencies
-There are a number of third-party dependencies used in the project. Browse the Maven pom.xml file for details of libraries and versions used.
+There are a number of third-party dependencies used in the project. 
+Browse the Maven pom.xml file for details of libraries and versions used.
 
 Building the project
 You will need:
@@ -20,8 +21,7 @@ Git
 Clone the project and use Maven to build the server
 
 $ mvn clean install
-Deploying to the cloud
-You can deploy the server to CloudFoundry using:
+
 
 For Spring-Redis data setup in local machine go to following  url.
 
