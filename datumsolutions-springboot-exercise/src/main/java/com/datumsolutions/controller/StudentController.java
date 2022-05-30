@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.datumsolutions.model.Student;
 import com.datumsolutions.repository.StudentDao;
 
-@SpringBootApplication
 @RestController
 @RequestMapping("/student")
 public class StudentController {
