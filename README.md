@@ -23,6 +23,8 @@ $ mvn clean install
 Deploying to the cloud
 You can deploy the server to CloudFoundry using:
 
-$ cf push UUIDLocator -p <jar>
-Browser URL
-Open your browser at the following URL for Swagger UI (giving REST interface details):
+For Spring-Redis data setup in local machine go to following  url.
+
+https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100
+
+Download Redis-x64-3.2.100.zip and extract the fine run the redis-server.exe
