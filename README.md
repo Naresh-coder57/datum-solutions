@@ -3,7 +3,7 @@
 **#About the project**
 •	An exercise of  REST-Springboot app using Redis datasource.
 •	This simple server acts a student-Service - 
-  we can do createstudent,getstudent,updateststudentudent, and delete using this app.
+  we can do createstudent,getstudent,updateststudent, and delete using this app.
   
   The fully fledged server uses the following :
   
