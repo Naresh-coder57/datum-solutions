@@ -17,6 +17,7 @@ You will need:
 Java JDK 8 or higher
 Maven 3.1.1 or higher
 Git
+Post man tool (to test REST end points)
 ### Running the code
 - Download the zip or clone the Git repository.
 - Unzip the zip file (if you downloaded one)
