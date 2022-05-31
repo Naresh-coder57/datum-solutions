@@ -33,4 +33,4 @@ For Spring-Redis data source setup in your local machine go to following  url.
 
 https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100
 
-Download Redis-x64-3.2.100.zip and extract the fine run the redis-server.exe
+Download Redis-x64-3.2.100.zip and extract the file run the redis-server.exe
